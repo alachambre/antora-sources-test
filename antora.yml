@@ -1,6 +1,6 @@
-name: component-a
-title: Component A
-version: dev
+name: bonita
+title: Bonita
+version: 7.12.0
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/taxonomy.adoc
