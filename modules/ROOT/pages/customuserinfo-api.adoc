@@ -1,5 +1,4 @@
 = Custom user info API
-:toc:
 
 The Custom user info Rest API allows to manage the custom information of the Bonita's users.
 

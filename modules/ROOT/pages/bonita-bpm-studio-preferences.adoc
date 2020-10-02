@@ -1,5 +1,4 @@
 = Bonita Studio preferences
-:toc:
 
 Learn about deployment, web and other Bonita Studio preferences, and the Bonita Studio embedded Tomcat configuration.
 

@@ -1,5 +1,4 @@
 = Custom Deployment
-:toc:
 
 :::warning This installation procedure only specifically targets the Java EE application Servers that have been installed under a single root folder (typically, from a .zip file).
 Thus, for installations using native distribution packages (that more often than not split the binaries and the configuration files into separate folder hierarchies), it would be up to you to adapt the documented steps to your very own folder layout.

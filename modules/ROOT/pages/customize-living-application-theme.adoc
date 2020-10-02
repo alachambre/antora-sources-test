@@ -1,5 +1,4 @@
 = Customize the living application theme
-:toc:
 
 This page explains how to create a theme project from the Studio or using the dedicated maven archetype.
 

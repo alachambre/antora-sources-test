@@ -1,5 +1,4 @@
 = How to manage dates and times in BDM and User Interfaces
-:toc:
 
 Manage dates and times in user interface is often difficult.
 This following howTo should help you.

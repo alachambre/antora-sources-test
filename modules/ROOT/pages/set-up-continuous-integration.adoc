@@ -1,5 +1,4 @@
 = Set up continuous integration
-:toc:
 
 Learn how to set up a continuous integration (CI) environment for your Bonita projects.
 CI includes automation of build, deployment, etc.

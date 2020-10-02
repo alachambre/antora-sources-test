@@ -1,5 +1,4 @@
 = Live update
-:toc:
 
 Some process definition information can be live updated from Administrator profile.
 

@@ -1,5 +1,4 @@
 = Bonita naming conventions
-:toc:
 
 Overview of the naming conventions that should be respected in Bonita.
 

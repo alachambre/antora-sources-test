@@ -1,5 +1,4 @@
 = Define and deploy the Business Data Model (BDM)
-:toc:
 
 This page explains how to define, deploy, export and import Business Data Model (BDM) and how these objects can be used in processes.
 

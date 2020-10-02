@@ -1,5 +1,4 @@
 = Create an actor filter
-:toc:
 
 An actor filter is implemented in Bonita in two parts, the definition and the implementation.
 This enables you to change the implementation without changing the definition.

@@ -1,5 +1,4 @@
 = Run a process in Bonita Studio
-:toc:
 
 You can run a process from Bonita Studio.
 Bonita Studio includes a test environment with all the components required to execute a process.

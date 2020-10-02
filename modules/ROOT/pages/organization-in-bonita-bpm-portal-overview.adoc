@@ -1,5 +1,4 @@
 = Overview of the organization in Bonita Portal
-:toc:
 
 In Bonita Portal, a user with the Administrator profile can view all the parts of an organization.
 

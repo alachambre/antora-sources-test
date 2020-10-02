@@ -1,5 +1,4 @@
 = Connectors execution
-:toc:
 
 == What are connectors
 

@@ -1,5 +1,4 @@
 = Contracts and contexts
-:toc:
 
 == Overview
 

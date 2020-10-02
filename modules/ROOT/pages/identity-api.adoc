@@ -1,5 +1,4 @@
 = Identity API
-:toc:
 
 The Identity Rest API allows to manage the Bonita's organization.
 

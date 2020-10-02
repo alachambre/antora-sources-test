@@ -1,5 +1,4 @@
 = Multi-tenant configuration for a Bonita platform
-:toc:
 
 One single platform to admininstrate with multiple logical engines.
 Discover what is a Tenant and how to setup Bonita with Multi-tenancy.

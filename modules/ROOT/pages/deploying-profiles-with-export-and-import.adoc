@@ -1,5 +1,4 @@
 = Import and export profiles using Bonita portal
-:toc:
 
 Profile artifacts should be managed in the bonita studio during development.
 But you can still import/export them using the Bonita portal.

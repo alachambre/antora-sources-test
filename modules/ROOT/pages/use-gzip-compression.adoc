@@ -1,5 +1,4 @@
 = Use gzip compression
-:toc:
 
 How to activate gzip compression for a Bonita Platform.
 It can improve performance by reducing network load.

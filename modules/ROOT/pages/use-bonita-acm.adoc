@@ -1,5 +1,4 @@
 = How to implement Adaptive Case Management (ACM) with Bonita
-:toc:
 
 This page explains how to enable Adaptive Case Management capacity in Bonita.
 

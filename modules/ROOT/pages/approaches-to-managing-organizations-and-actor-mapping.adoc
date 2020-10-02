@@ -1,5 +1,4 @@
 = Manage organization, actors and users within Bonita
-:toc:
 
 Bonita requires to define organizations, actors and users to execute your process
 

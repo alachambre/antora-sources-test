@@ -1,5 +1,4 @@
 = Back up Bonita Platform
-:toc:
 
 To provide continuity, regular backups of the platform (clustered or not) is advised.
 

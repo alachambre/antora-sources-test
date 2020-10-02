@@ -1,5 +1,4 @@
 = Bonita Studio hints and tips
-:toc:
 
 Discover how to add items to a diagram in Bonita Studio, use the tree view, and search/edit diagrams.
 

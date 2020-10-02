@@ -1,5 +1,4 @@
 = Bonita portal Custom profiles
-:toc:
 
 Bonita Studio profile editor allows you to create custom profiles that feet better with your needs regarding the Bonita portal.
 

@@ -1,6 +1,5 @@
 = Start building your application: draw a BPMN process diagram
 :experimental:
-:toc:
 
 Now that you have your development environment (i.e.
 Bonita Studio) up and running, you are ready to start building your first Bonita Living Application.

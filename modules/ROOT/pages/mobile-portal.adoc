@@ -1,5 +1,4 @@
 = Bonita Portal - Mobile version
-:toc:
 
 The Bonita Portal has a mobile version thought to be used by the User profile only.
 It displays the User task list and the process list.

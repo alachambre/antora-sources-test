@@ -1,5 +1,4 @@
 = Log files
-:toc:
 
 Studio log file is related to development activities, while Engine log file is related to process testing.
 

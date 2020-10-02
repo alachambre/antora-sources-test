@@ -1,5 +1,4 @@
 = Documents
-:toc:
 
 Some processes require documents to provide supplementary information, or to manipulate business information.
 + Users can download it.

@@ -1,5 +1,4 @@
 = Using Alfresco with Bonita
-:toc:
 
 Bonita allows you to connect Alfresco ECM content platform.
 

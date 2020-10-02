@@ -1,5 +1,4 @@
 = Manage the platform
-:toc:
 
 With Bonita Engine API, you can create and initialize the platform, start and stop the Bonita Engine.
 

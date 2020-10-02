@@ -1,5 +1,4 @@
 = Layouts
-:toc:
 
 This page explains how to create and add a layout to the Bonita Portal, and how to use it in an application.
 

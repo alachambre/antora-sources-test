@@ -1,5 +1,4 @@
 = BDM access control
-:toc:
 
 ::: info *Note:* for Enterprise, Performance and Efficiency editions only.
 + :::

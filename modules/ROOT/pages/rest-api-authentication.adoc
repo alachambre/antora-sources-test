@@ -1,5 +1,4 @@
 = REST API authentication
-:toc:
 
 To call the REST API, you must first log on with a user registered in the Engine database.
 

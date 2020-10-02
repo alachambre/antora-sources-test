@@ -1,5 +1,4 @@
 = Pages
-:toc:
 
 Page resources are intended for use in applications or to customize Bonita portal.
 See how to use it and make it available to users.

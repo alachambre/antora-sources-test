@@ -1,5 +1,4 @@
 = Import/export an organization
-:toc:
 
 Logged on with the Administrator profile, you have rights to import or export an organization.
 

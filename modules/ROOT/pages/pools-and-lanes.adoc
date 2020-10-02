@@ -1,5 +1,4 @@
 = Pools and lanes
-:toc:
 
 This page defines pools and lanes and how they can be configured.
 

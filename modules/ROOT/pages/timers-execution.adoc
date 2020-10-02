@@ -1,5 +1,4 @@
 = Timers execution
-:toc:
 
 == What are timers
 

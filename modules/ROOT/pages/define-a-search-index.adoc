@@ -1,5 +1,4 @@
 = Search keys
-:toc:
 
 Learn how you can set and use Bonita Search Keys to easily search for business values defined on your processes
 

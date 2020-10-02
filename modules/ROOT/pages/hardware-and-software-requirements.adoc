@@ -1,5 +1,4 @@
 = Hardware and software requirements
-:toc:
 
 This page describes the suggested hardware and software requirements to install Bonita platform.
 

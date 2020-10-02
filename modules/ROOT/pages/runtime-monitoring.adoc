@@ -1,5 +1,4 @@
 = Bonita Runtime Monitoring
-:toc:
 
 Discover how to monitor a runtime environment running Bonita
 

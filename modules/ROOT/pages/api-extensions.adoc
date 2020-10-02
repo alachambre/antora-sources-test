@@ -1,5 +1,4 @@
 = REST API Extensions
-:toc:
 
 Extend REST Resources using Bonita, to send information on a form.
 REST API Extensions are xref:resource-management.adoc[manage] as resources.

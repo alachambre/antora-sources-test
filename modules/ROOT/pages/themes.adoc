@@ -1,5 +1,4 @@
 = Application Themes
-:toc:
 
 Create, import, define and use personal themes to skin your Bonita application.
 

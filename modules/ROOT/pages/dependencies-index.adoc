@@ -1,5 +1,4 @@
 = Dependencies
-:toc:
 
 You will find below the list of dependencies used by Bonita.
 

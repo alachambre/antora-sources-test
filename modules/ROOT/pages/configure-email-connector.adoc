@@ -1,6 +1,5 @@
 = Configure an email connector
 :experimental:
-:toc:
 
 In order for a process to interact with external systems such as publishing a document on a CMS, calling a REST API, or sending an email, Bonita provides connectors.
 In our example we will configure an email connector to notify the manager that a task _Deal with unsatisfied customer_ requires their attention.

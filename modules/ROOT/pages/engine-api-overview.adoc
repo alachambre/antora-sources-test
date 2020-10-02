@@ -1,5 +1,4 @@
 = Bonita Engine API overview
-:toc:
 
 Customize or add to your application by developing new connectors, actor filters or by replacing/enhancing existing services
 

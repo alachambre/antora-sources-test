@@ -1,5 +1,4 @@
 = Groovy script language in Bonita
-:toc:
 
 In Bonita, it is a prerequisite to be comfortable with Java when implementing advanced behaviors in your processes, the below article aims at helping with Groovy, the scripting language used by Bonita.
 Groovy has been chosen as the scripting language because it is :

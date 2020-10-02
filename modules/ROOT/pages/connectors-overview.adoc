@@ -1,5 +1,4 @@
 = Overview of connector development features
-:toc:
 
 Description of the structure, definition, implementation and test of custom connectors in Bonita.
 

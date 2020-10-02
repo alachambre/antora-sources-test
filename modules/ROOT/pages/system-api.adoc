@@ -1,5 +1,4 @@
 = REST API System API
-:toc:
 
 Get informations on the current session and on localisation/translation.
 

@@ -1,5 +1,4 @@
 = Maintenance of the Bonita Platform
-:toc:
 
 Learn how to execute maintenance tasks on your tenants by pausing and resuming services of the Bonita Platform.
 

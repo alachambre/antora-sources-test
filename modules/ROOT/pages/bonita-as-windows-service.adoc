@@ -1,5 +1,4 @@
 = How to install Bonita as a service on Windows
-:toc:
 
 In this tutorial we show how to install Tomcat with Bonita configured as a windows service.
 

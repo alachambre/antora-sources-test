@@ -1,5 +1,4 @@
 = Access control API
-:toc:
 
 ::: info  *Note:* This API is only available in Enterprise, Efficiency and Performance editions.
 :::

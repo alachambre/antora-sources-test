@@ -1,5 +1,4 @@
 = Variables in the UI Designer
-:toc:
 
 Discover how to use variables in the UI Designer to manage information in artifacts.
 

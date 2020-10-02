@@ -1,5 +1,4 @@
 = Work execution audit
-:toc:
 
 Sometimes it is useful to understand what is currently happening in the platform, in particular for work execution, see xref:execution-sequence-states-and-transactions.adoc[Work service mechanism].
 

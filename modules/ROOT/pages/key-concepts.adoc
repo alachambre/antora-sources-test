@@ -1,5 +1,4 @@
 = Bonita key concepts
-:toc:
 
 Learn some of the key concepts related to designing an application or a process with Bonita, and the terminology used in Bonita Studio.
 

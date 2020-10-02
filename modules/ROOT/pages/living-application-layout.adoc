@@ -1,5 +1,4 @@
 = Living application layout
-:toc:
 
 ::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
 :::

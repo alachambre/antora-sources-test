@@ -1,5 +1,4 @@
 = Upgrade from Community to Subscription
-:toc:
 
 Upgrading means moving from a Bonita Community edition environment to any Bonita Subscription  edition environment.
 

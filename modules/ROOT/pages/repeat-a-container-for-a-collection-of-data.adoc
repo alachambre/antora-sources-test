@@ -1,5 +1,4 @@
 = Repeat a container for a collection of data
-:toc:
 
 Reuse a container inside a form more than once times to insert multiple-type data.
 

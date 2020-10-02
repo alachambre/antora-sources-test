@@ -1,5 +1,4 @@
 = Resources management
-:toc:
 
 A resource is an artifact that extends Bonita platform.
 It is possible to add resources to Bonita Portal and make them available to users.

@@ -1,5 +1,4 @@
 = UI Designer overview
-:toc:
 
 The UI Designer is a wysiwyg development environment for creating pages and forms for a Bonita application.
 

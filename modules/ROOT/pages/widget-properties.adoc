@@ -1,5 +1,4 @@
 = Widget properties
-:toc:
 
 A page is constructed from xref:widgets.adoc[widgets].
 The behavior of a widget is determined by its properties.

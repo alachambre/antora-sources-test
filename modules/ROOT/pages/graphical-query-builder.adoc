@@ -1,5 +1,4 @@
 = Graphical query builder
-:toc:
 
 Build a database query graphically.
 

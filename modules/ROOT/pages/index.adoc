@@ -1,5 +1,4 @@
 = Bonita Documentation
-:toc:
 
 Learn how to use the Bonita Platform and all of its components.
 

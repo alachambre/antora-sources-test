@@ -1,5 +1,3 @@
-:toc:
-
 == Cache configuration and policy
 
 Learn how to configure Bonita Portal cache and Living Application cache.

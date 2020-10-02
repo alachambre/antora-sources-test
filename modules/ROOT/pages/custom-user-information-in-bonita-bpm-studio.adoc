@@ -1,5 +1,4 @@
 = Custom User Information in Bonita Studio
-:toc:
 
 Learn how you can add custom (business) information on users, that will then be available for filtering.
 For instance:

@@ -1,5 +1,4 @@
 = Application descriptor
-:toc:
 
 Define your Bonita application descriptor.
 

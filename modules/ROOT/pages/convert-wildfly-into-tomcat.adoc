@@ -1,5 +1,4 @@
 = Convert a Bonita WildFly installation into a Bonita Tomcat installation
-:toc:
 
 Learn how to convert a Bonita installation based on WildFly to a one based on Tomcat
 

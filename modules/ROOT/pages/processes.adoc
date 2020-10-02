@@ -1,5 +1,4 @@
 = Bonita Processes administration
-:toc:
 
 Users with the Administrator profile can: install, enable and edit processes as well as categories, forms, entities, parameters, connectors
 

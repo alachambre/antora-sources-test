@@ -1,5 +1,4 @@
 = Bonita is available in different languages
-:toc:
 
 Bonita is officially released in various languages.
 

@@ -1,5 +1,4 @@
 = Post-installation recommendations
-:toc:
 
 This page describes the best practices and steps to follow in order to ensure the security of the platform after the initial installation.
 

@@ -1,5 +1,4 @@
 = Set up a reporting database
-:toc:
 
 Learn how to set up a reporting database to put reporting in place
 

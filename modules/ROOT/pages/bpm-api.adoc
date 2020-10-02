@@ -1,5 +1,4 @@
 = REST API BPM API
-:toc:
 
 Easily retrieve human or service tasks, call activities, and subprocesses with BPM APIs.
 Perform maintenance tasks.

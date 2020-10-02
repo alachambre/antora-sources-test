@@ -1,5 +1,4 @@
 = Overview of Bonita Platform in cluster
-:toc:
 
 Learn how to achieve High availability by setting up Bonita Platform in cluster.
 

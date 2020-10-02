@@ -1,5 +1,4 @@
 = Data Management in the UI Designer
-:toc:
 
 Discover how to explore xref:define-business-data-model.adoc[Business Data Model] (BDM) objects in the UI Designer, and use it to create user interfaces and variables.
 

@@ -1,5 +1,4 @@
 = User activation / deactivation
-:toc:
 
 Activation / deactivation of a user allows to revoke any access to the platform without deleting the user.
 

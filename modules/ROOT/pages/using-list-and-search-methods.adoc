@@ -1,5 +1,4 @@
 = Search and list elements of Bonita Engine
-:toc:
 
 Learn how to use search and list methods of the Bonita Engine APIs and how to configure word-based search.
 

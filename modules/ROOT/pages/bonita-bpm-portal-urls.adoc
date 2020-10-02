@@ -1,5 +1,4 @@
 = Bonita Portal URLs
-:toc:
 
 This page explains how to use a URL to access Bonita Portal or the form for a specific process or task.
 

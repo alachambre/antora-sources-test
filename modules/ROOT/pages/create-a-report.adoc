@@ -1,5 +1,4 @@
 = Create a report
-:toc:
 
 The final step when setting up reporting in Bonita is to create a report template using a Business Intelligence (BI) tool.
 

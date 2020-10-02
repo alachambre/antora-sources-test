@@ -1,5 +1,4 @@
 = Process testing overview
-:toc:
 
 Bonita Studio contains several features that you can use to verify your process while it is in development.
 

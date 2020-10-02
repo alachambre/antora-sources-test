@@ -1,5 +1,4 @@
 = Two main types of Bonita deployment
-:toc:
 
 Discover the two main types of deployments of a Bonita Platform.
 

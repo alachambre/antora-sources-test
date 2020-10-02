@@ -1,5 +1,4 @@
 = Design an application page
-:toc:
 
 So far, with a process, data, forms, and connectors, we've built a fully functional software solution to manage claims.
 But what if we want to have a dashboard showing all ongoing claims?

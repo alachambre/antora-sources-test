@@ -1,5 +1,4 @@
 = Bonita Engine Queriable logger
-:toc:
 
 Queriable logger provides information about important events that happened in the Bonita Platform.
 

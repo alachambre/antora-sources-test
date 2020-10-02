@@ -1,5 +1,4 @@
 = Organization management in Bonita Studio
-:toc:
 
 Organization is the set of users, groups and roles.
 It is used indirectly to define privileges for tasks execution, applications, API, etc.

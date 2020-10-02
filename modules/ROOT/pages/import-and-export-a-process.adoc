@@ -1,5 +1,4 @@
 = Import and export a process
-:toc:
 
 How to import and export processes in Bonita Studio.
 

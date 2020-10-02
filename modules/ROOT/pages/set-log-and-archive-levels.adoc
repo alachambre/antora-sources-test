@@ -1,5 +1,4 @@
 = Logging and archiving of Bonita processes
-:toc:
 
 How the information about your Bonita processes is recorded, and how to configure what is recorded.
 

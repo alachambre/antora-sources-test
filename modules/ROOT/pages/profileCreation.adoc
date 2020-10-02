@@ -1,6 +1,5 @@
 = Profile Editor
 :experimental:
-:toc:
 
 Build a profile to customize the user's environment, define page listing and who can access it.
 

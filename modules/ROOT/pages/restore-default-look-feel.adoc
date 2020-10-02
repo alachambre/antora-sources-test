@@ -1,5 +1,4 @@
 = Restore the default Look & Feel
-:toc:
 
 Restoring default Look & Feel in case of errors
 

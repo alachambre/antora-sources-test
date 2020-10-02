@@ -1,5 +1,4 @@
 = REST API extensions
-:toc:
 
 Create REST API extensions to use third party systems (databases, web services, Bonita Engine, etc) data in forms and pages.
 

@@ -1,5 +1,4 @@
 = UI Designer Custom widgets
-:toc:
 
 To extend the xref:widgets.adoc[standard widgets], develop your custom widgets using HTML, AngularJS and Javascript.
 

@@ -1,6 +1,5 @@
 = Process monitoring
 :experimental:
-:toc:
 
 Monitoring gives information relative to a process ongoing execution.
 

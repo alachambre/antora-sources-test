@@ -1,5 +1,4 @@
 = Business Data Model (BDM) API
-:toc:
 
 BDM Rest APIs allow to query Bonita Business Data.
 

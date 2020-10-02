@@ -1,5 +1,4 @@
 = Generate a PDF from an Office document
-:toc:
 
 How to use the Generate PDF from an Office document connector.
 

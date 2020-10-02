@@ -1,5 +1,3 @@
-:toc:
-
 == Use a shared project
 
 ::: info Bonita Studio provide a feature (*File* menu, *Import*, *Workspace...*) to import all the projects from a given workspace into your current workspace.

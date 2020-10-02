@@ -1,5 +1,4 @@
 = Role management
-:toc:
 
 Roles can be defined in the organization, attached to users and used to map actors.
 

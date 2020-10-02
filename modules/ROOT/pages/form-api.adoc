@@ -1,5 +1,4 @@
 = Form API
-:toc:
 
 Form Rest APIs allow to map a form to a process or a task.
 

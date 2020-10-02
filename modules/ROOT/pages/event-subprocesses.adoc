@@ -1,5 +1,4 @@
 = Event subprocesses
-:toc:
 
 An Event Subprocess can be called by a parent process to handle exceptions or a case.
 

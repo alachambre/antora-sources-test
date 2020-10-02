@@ -1,6 +1,5 @@
 = Declare contracts
 :experimental:
-:toc:
 
 So far our process defines a sequences of events and tasks, and declares a business variable that it will instantiate and update when executed.
 We want to instantiate our `claim` business variable using the description provided by the customer when they start the process.

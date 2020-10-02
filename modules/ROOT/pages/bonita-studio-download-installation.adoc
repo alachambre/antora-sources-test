@@ -1,5 +1,4 @@
 = Bonita Studio installation
-:toc:
 
 The first step of this getting started tutorial is to set up your development environment.
 All you need to do is install Bonita Studio.

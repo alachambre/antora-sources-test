@@ -1,5 +1,4 @@
 = List of default relational database connectors
-:toc:
 
 A complete list of all database connectors available in Bonita for the major relational database vendors (e.g.
 Oracle, MySQL, PostgreSQL...).

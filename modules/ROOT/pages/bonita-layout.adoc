@@ -1,5 +1,4 @@
 = Bonita Layout
-:toc:
 
 ::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
 :::

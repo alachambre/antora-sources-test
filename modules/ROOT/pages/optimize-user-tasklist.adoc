@@ -1,5 +1,4 @@
 = How to have unique task names in the task list
-:toc:
 
 Leverage Bonita Studio to optimize user comfort and efficiency by inserting case information in task name and task description.
 

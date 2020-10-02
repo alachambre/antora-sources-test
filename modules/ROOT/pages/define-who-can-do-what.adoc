@@ -1,6 +1,5 @@
 = Define who can do what
 :experimental:
-:toc:
 
 Up to this point, when you execute the process you were acting as a single user (username: _walter.bates_, password: _bpm_) who can perform all the user tasks.
 In a scenario closer to a real life use case, there are different types of users: customers (who can submit claims), employees (who answer claims) and the manager of the user who provides the answer (who is needed to interact with unsatisfied customers).

@@ -1,5 +1,4 @@
 = How to create a modal window in UI Designer
-:toc:
 
 A nice aspect of Bonita UI Designer is that it allows users to apply or customize styles to the page as per their requirements through CSS.
 

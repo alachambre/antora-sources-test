@@ -1,5 +1,4 @@
 = Process Refactoring
-:toc:
 
 Learn what kind of refactoring can be made on your processes.
 

@@ -1,5 +1,4 @@
 = Default database connector configuration
-:toc:
 
 The Bonita Studio includes a generic database connector that allows both JDBC and Datasource configurations
 

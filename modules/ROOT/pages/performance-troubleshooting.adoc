@@ -1,5 +1,4 @@
 = Performance troubleshooting
-:toc:
 
 Learn how to monitoring your Bonita Platform and troubleshoot performance issues.
 

@@ -1,5 +1,4 @@
 = Performance tuning
-:toc:
 
 Learn how to tune the Bonita Engine to get optimize the performance of your platform.
 

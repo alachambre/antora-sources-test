@@ -1,5 +1,4 @@
 = Manage a process
-:toc:
 
 == List the deployed processes
 

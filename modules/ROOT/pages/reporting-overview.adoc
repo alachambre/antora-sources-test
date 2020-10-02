@@ -1,5 +1,4 @@
 = Reporting overview
-:toc:
 
 Learn how reporting can be made on application of the Bonita Plaform.
 

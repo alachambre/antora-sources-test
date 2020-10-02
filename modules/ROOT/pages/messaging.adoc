@@ -1,5 +1,4 @@
 = Email connector
-:toc:
 
 This connector will send an email message when activated.
 

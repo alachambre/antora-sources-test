@@ -1,5 +1,4 @@
 = Search keys
-:toc:
 
 The search fields in Bonita Portal can be used to search for particular values in cases, filter them, and display the result.
 

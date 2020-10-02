@@ -1,5 +1,4 @@
 = Page and form development overview
-:toc:
 
 Your process-based application can use pages and forms to show or collect information in a browser.
 Let's discover how they work here.

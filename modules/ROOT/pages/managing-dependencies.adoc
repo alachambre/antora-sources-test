@@ -1,5 +1,4 @@
 = Manage dependencies
-:toc:
 
 Learn how to manage dependencies using Bonita Studio, so that when you build a process for deployment, all the dependencies are included
 

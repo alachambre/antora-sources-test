@@ -1,5 +1,4 @@
 = SSL configuration
-:toc:
 
 It is possible to set up SSL in your Bonita server.
 This enables you to use secure HTTP (HTTPS) to access the portal.

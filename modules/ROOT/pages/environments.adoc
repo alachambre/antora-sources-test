@@ -1,5 +1,4 @@
 = Environment management
-:toc:
 
 An environment is a set of configuration definitions for a project.
 You can configure a process differently for each environments.

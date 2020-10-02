@@ -1,5 +1,4 @@
 = Cluster administration
-:toc:
 
 ::: info *Note:* For Enterprise and Performance editions only.
 :::

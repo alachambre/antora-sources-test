@@ -1,5 +1,4 @@
 = Migration tool changelog
-:toc:
 
 This is the changelog of the migration tool.
 

@@ -1,5 +1,4 @@
 = Create administration tools
-:toc:
 
 Discover how to create tools to administer your Bonita system using Maven and Java.
 

@@ -1,5 +1,4 @@
 = Task errors managmenent
-:toc:
 
 Learn how to handle errors happening on a task.
 

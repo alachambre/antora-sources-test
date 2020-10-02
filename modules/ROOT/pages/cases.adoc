@@ -1,5 +1,4 @@
 = Cases
-:toc:
 
 How to manage cases in the Bonita Portal.
 

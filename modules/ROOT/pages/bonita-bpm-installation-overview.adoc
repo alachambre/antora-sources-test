@@ -1,5 +1,4 @@
 = Bonita installation overview
-:toc:
 
 Description of the different options for Bonita installation.
 

@@ -1,5 +1,4 @@
 = Bonita actor filter archetype
-:toc:
 
 A set of best of breed tools to develop and test custom actor filters independently of the Bonita Studio.
 

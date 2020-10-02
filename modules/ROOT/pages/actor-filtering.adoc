@@ -1,5 +1,4 @@
 = Actor filters
-:toc:
 
 On a human task, the actor filter is responsible for filtering out users - mapped to the actor definition - who can actually perform it.
 

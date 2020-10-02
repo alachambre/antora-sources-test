@@ -1,5 +1,4 @@
 = Application API
-:toc:
 
 Bonita application API allows you to retrieve the current deployed application definitions
 

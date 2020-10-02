@@ -1,5 +1,4 @@
 = Log in and log out
-:toc:
 
 How to log in or log out of the Bonita Portal.
 

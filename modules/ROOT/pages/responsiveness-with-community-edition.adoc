@@ -1,5 +1,4 @@
 = Create a responsive web application with Bonita Community edition
-:toc:
 
 To build a responsive page/form based on different screen sizes using UI Designer, there are several predefined bootstrap CSS classes.
 

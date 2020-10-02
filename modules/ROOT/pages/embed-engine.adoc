@@ -1,5 +1,4 @@
 = Embed Bonita Engine in your application
-:toc:
 
 image:images/bonita-lab.png[] ::: warning *Warning*: This is a Lab feature and is subject to change without warning in any version.
 It is not recommended for production.

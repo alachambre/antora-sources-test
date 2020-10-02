@@ -1,5 +1,4 @@
 = Groups of an organization
-:toc:
 
 To easily manipulate users with the same rights, it is possible to group them together.
 

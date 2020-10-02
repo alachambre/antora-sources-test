@@ -1,6 +1,5 @@
 = Create an application
 :experimental:
-:toc:
 
 Creating the application is the final step of this Getting Started tutorial.
 

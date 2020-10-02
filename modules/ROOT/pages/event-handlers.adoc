@@ -1,5 +1,4 @@
 = Bonita Engine Event handlers
-:toc:
 
 An event handler is an extension to the engine that is configured to run when a specified event occurs.
 

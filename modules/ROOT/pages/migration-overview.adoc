@@ -1,5 +1,4 @@
 = Migration overview
-:toc:
 
 Learn how to migrate a Bonita Platform from an older version to a newer version.
 

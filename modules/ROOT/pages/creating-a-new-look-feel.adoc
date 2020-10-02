@@ -1,5 +1,4 @@
 = Create a new Look & Feel
-:toc:
 
 This page explains how to modify the Look & Feel of Bonita Portal and of forms in processes run from the Portal.
 

@@ -1,5 +1,4 @@
 = Process Gateways
-:toc:
 
 Gateways are used to control how sequence flows interact as they converge and diverge within a process.
 

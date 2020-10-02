@@ -1,5 +1,4 @@
 = Organization overview
-:toc:
 
 Concepts of actors and organizations in Bonita.
 

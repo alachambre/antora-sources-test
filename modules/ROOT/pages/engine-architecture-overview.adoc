@@ -1,5 +1,4 @@
 = Bonita Engine architecture
-:toc:
 
 Discover Bonita Engine architecture, its APIs, main services, and how they are packaged.
 

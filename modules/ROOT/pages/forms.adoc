@@ -1,5 +1,4 @@
 = Forms for Process instantiation or Human Tasks
-:toc:
 
 How to add a form resource to the Bonita Portal and make it available to users.
 Forms are intended to be used with one or several processes.

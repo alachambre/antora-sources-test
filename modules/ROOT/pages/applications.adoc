@@ -1,5 +1,4 @@
 = Applications
-:toc:
 
 Bonita allows you to build business-centered web applications that provides access to processes and operational dashboards.
 

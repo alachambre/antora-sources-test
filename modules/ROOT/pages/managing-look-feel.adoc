@@ -1,5 +1,4 @@
 = Manage the Bonita Portal Look & Feel
-:toc:
 
 The Look & Feel defines the appearance of Bonita Portal Web interface and the Bonita Portal Mobile interface.
 Discover how to customize it.

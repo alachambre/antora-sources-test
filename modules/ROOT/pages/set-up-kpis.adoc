@@ -1,5 +1,4 @@
 = KPI (Key Performance Indicator) configuration
-:toc:
 
 Discover how to create KPIs through the Bonita Studio feature and through a database connector to integrate them in your business processes.
 

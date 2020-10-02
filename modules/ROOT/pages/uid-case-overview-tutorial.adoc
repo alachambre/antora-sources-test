@@ -1,5 +1,4 @@
 = Create a case overview page using the UI Designer
-:toc:
 
 Understand what is and how to create a case overview page by following this step by step tutorial.
 

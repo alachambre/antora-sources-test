@@ -1,5 +1,4 @@
 = Platform API
-:toc:
 
 The Platform REST API allows to manage Bonita Platform and platform level resources.
 

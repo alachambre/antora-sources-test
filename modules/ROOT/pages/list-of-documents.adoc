@@ -1,5 +1,4 @@
 = Manage a list of documents
-:toc:
 
 Bonita allows you to group documents with lists.
 

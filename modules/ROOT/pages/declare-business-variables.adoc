@@ -1,6 +1,5 @@
 = Declare business variables
 :experimental:
-:toc:
 
 In order for your process to be able to perform operations on business data such as the classical create, read, update and delete operations, you need to include business variables in your process definition.
 

@@ -1,5 +1,4 @@
 = Process Expressions and scripts
-:toc:
 
 Learn how to define Expressions and script in Bonita Studio that will be executed in your processes.
 

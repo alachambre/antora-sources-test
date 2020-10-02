@@ -1,5 +1,4 @@
 = LDAP authentication configuration
-:toc:
 
 Bonita can be configured to perform user authentication against an LDAP server such as Active Directory, Apache Directory Server, or OpenLDAP.
 

@@ -1,5 +1,4 @@
 = Bonita Portal overview
-:toc:
 
 Bonita Portal allows you to access server administration and monitoring for administrators, and a generic process view for users.
 

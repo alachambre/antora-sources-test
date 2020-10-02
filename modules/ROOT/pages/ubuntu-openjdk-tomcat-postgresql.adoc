@@ -1,5 +1,4 @@
 = Custom Bonita Platform Setup
-:toc:
 
 How to set up a Bonita Platform from scratch in a specific environment (Ubuntu, Openjdk, Tomcat, PostgreSQL).
 

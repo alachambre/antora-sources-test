@@ -1,5 +1,4 @@
 = Configure connection to Bonita Engine
-:toc:
 
 Learn how to configure your application to connect to a remote Bonita Engine, in order to access Engine APIs
 

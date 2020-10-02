@@ -1,5 +1,4 @@
 = Generate project documentation
-:toc:
 
 How to generate the project documentation in Bonita Studio.
 

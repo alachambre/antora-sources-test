@@ -1,5 +1,4 @@
 = Manage a user
-:toc:
 
 How to manage users through Bonita Portal.
 

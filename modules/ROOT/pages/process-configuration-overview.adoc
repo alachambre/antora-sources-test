@@ -1,5 +1,4 @@
 = Different process configuration scenarios
-:toc:
 
 The Bonita Studio provides dedicated tooling to configure the different artefacts that are part of a process.
 

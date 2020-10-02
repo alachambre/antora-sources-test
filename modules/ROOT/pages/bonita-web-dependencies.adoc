@@ -1,5 +1,4 @@
 = Bonita-web dependencies 7.10
-:toc:
 
 List all dependencies uses for Bonita web
 

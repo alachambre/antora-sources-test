@@ -1,5 +1,4 @@
 = Actors of processes
-:toc:
 
 The concept of Actor defines who can perform a task or start a process.
 

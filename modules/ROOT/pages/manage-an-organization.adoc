@@ -1,5 +1,4 @@
 = Manage an organization
-:toc:
 
 Examples on how to import / read / edit / delete organizations through Bonita java API's.
 

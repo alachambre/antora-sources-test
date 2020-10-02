@@ -1,5 +1,4 @@
 = Bonita Tomcat bundle
-:toc:
 
 You will find here the mandatory and optional steps needed to install and configure the Tomcat bundle to run the Bonita platform.
 

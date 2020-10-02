@@ -1,5 +1,4 @@
 = How to map authorization rules
-:toc:
 
 Custom authorization can be configured for pages and forms to restrict the access to selected profiles or users.
 

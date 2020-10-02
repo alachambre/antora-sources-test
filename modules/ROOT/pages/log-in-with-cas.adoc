@@ -1,5 +1,4 @@
 = SSO Log in with CAS
-:toc:
 
 Use CAS as your Single Sign On (SSO) authentication server to log into Bonita Portal or REST APIs.
 

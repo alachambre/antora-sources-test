@@ -1,5 +1,4 @@
 = Platform extensibility
-:toc:
 
 Learn how Bonita Platform can be extended to suit your needs.
 

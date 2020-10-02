@@ -1,5 +1,4 @@
 = Configure a process
-:toc:
 
 Process contains Actor mapping, Connectors, Actor filter, Parameters, Java dependencies.
 Configuration can be done per Environment.

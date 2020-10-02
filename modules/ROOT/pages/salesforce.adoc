@@ -1,5 +1,4 @@
 = Using SaleForce with Bonita
-:toc:
 
 SaleForce connectors allow you to interact with Saleforce through Bonita.
 

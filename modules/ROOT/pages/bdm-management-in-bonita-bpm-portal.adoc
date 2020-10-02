@@ -1,5 +1,4 @@
 = BDM Management in Bonita Portal
-:toc:
 
 Processes using Business Objects with persisted data need to run with a Business Data Model deployed in the Bonita Portal.
 

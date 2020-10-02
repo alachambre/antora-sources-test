@@ -1,5 +1,4 @@
 = Specify data in a process definition
-:toc:
 
 This page explains how to handle data (variables and documents) in a process, including specifying process and task-level data.
 

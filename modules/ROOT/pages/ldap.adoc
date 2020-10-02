@@ -1,5 +1,4 @@
 = LDAP Connector
-:toc:
 
 The LDAP connector allows a process to retrieve data from an LDAP server by running a query.
 

@@ -1,5 +1,4 @@
 = UI artifacts in UI Designer
-:toc:
 
 How to create and modify UI artifacts to build powerful applications with Bonita UI Designer.
 

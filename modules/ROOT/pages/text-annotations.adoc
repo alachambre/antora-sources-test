@@ -1,5 +1,4 @@
 = Text annotations
-:toc:
 
 A text annotation is a comment that can be added to a diagram.
 

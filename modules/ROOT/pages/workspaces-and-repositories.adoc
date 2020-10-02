@@ -1,5 +1,4 @@
 = Workspaces and projects
-:toc:
 
 Organize and share your Bonita project using workspaces and projects in order to ease developers team collaboration.
 

@@ -1,5 +1,4 @@
 = Enable CORS in Tomcat bundle
-:toc:
 
 How to enable Cross-Origin Resource Sharing (CORS) in Tomcat, and check it.
 

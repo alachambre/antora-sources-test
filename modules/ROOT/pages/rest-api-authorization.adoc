@@ -1,5 +1,4 @@
 = REST API authorizations
-:toc:
 
 Permissions to access Bonita platform's REST API resources are handled by a configurable authorizations mecanism.
 

@@ -1,5 +1,4 @@
 = About Bonita Portal
-:toc:
 
 Bonita Portal gives you access to a basic task preview and administration features.
 

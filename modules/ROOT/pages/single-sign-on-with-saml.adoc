@@ -1,5 +1,4 @@
 = SAML SSO configuration
-:toc:
 
 Bonita can be configured to use the SAML protocol to provide single sign-on (SSO), as long as you already have a SAML Identity Provider server up and running (IdP).
 

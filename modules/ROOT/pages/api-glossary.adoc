@@ -1,5 +1,4 @@
 = Bonita REST API glossary
-:toc:
 
 List of Bonita REST API definitions and descriptions.
 

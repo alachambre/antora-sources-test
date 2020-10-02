@@ -1,5 +1,4 @@
 = Bonita platform overview
-:toc:
 
 Build engaging, personalized, process-based business applications using BPM application platform.
 Adapt to business changes real-time

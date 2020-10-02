@@ -1,5 +1,4 @@
 = Bonita cluster installation and configuration
-:toc:
 
 Discover how to create a cluster from scratch, convert a single node into a cluster, allow communication between nodes and manage a cluster.
 

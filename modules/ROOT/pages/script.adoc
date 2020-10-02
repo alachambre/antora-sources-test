@@ -1,5 +1,4 @@
 = Script connectors
-:toc:
 
 Script connectors allows to execute groovy scripts and system scripts in your processes.
 

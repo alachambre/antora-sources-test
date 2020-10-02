@@ -1,5 +1,4 @@
 = Development of a Bonita Platform Application
-:toc:
 
 Typical development of an application based on the Bonita Platform follows the phases described in this document.
 
