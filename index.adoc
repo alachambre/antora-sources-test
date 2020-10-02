@@ -1,4 +1,0 @@
-= index
-
-
-Hello my friend
