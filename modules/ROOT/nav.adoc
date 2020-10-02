@@ -1,4 +1,4 @@
-= index
+= Navigation
 
 * xref:bdm-access-control.adoc[Access control]
 * xref:bonita-bpm-overview.adoc[BPM overview]

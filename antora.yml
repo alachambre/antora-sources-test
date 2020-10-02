@@ -1,6 +1,6 @@
-name: sources-1
-title: Source 1
-version: 1.0.0
-start_page: ROOT:inline-text-formatting.adoc
+name: component-a
+title: Component A
+version: 1.5.6
+start_page: ROOT:bdm-access-control.adoc
 nav:
-- src/index.adoc
+- modules/ROOT/nav.adoc
