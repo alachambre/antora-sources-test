@@ -207,7 +207,7 @@ When using connectors having a large amount of dependencies you may encounter so
 
 If the Welcome page displays fully white when you start-up your Bonita Studio:
 
-image::bonita/images/${varVersion}/studio_welcome_page_ko.png[,850px]
+image::bonita/images/{varVersion}/studio_welcome_page_ko.png[,850px]
 
 just install the missing packet libwebkitgtk by running the following command:
 
@@ -218,7 +218,7 @@ sudo apt-get install libwebkitgtk-1.0-0
 
 Then the welcome page should display well, like this:
 
-image::bonita/images/${varVersion}/studio_welcome_page_ok.png[,850px]
+image::bonita/images/{varVersion}/studio_welcome_page_ok.png[,850px]
 
 ==== Bonita Studio installation fail due to JVM errors
 

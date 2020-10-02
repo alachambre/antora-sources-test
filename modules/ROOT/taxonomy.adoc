@@ -1,5 +1,3 @@
-:toc:
-
 * xref:_getting-started-tutorial.adoc[Getting started tutorial]
  ** xref:what-is-bonita.adoc[What is Bonita?]
  ** xref:bonita-studio-download-installation.adoc[Download and install]
