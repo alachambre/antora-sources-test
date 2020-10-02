@@ -1,6 +1,6 @@
 name: component-a
 title: Component A
 version: dev
-start_page: ROOT:bdm-access-control.adoc
+start_page: ROOT:index.adoc
 nav:
-- modules/ROOT/nav.adoc
+- modules/ROOT/taxonomy.adoc
