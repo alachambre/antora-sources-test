@@ -1,6 +1,9 @@
 name: bonita
 title: Bonita
-version: 7.12.0
+version: 7.12
 start_page: ROOT:index.adoc
+asciidoc:
+  attributes:
+    varVersion: 7.12
 nav:
 - modules/ROOT/taxonomy.adoc
