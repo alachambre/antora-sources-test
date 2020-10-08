@@ -1,6 +1,6 @@
 name: bonita
 title: Bonita
-version: 7.12.0
+version: 7.11.0
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/taxonomy.adoc

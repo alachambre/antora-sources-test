@@ -94,7 +94,7 @@ To specify the current element of the collection, use `$item`.
 
 === Save as fragment
 
-You can save any container as a fragment (from the properties panel header, widget actions menu).
+If you are using the Enterprise, Performance, Efficiency, or Teamwork edition, you can save any container as a fragment (from the properties panel header, widget actions menu).
 This enables you to reuse the set of widgets in other pages.
 
 === Tab container
@@ -293,7 +293,7 @@ Setting the `Close modal on success` property to `yes` is enough for this to hap
 
 When inside a form container, the button is automatically disabled while the form is invalid.
 
-=== Save button widget
+=== Save button widget (Subscription editions)
 
 Use the Save button widget to store data in the browser LocalStorage.
 For instance, to let users save the draft of the current form, bind the *formInput* variable of your form to the *value* property.
@@ -376,7 +376,7 @@ In some case, you want override your theme to display custom style for only *one
 
 NOTE: In embedded Table widget documentation you can found an example for bordered custom style.
 
-=== Data table widget
+=== Data table widget (Subscription editions)
 
 NOTE: Read link:widgets.md#table-widget[Table widget] section to know how you can customize display of your data table widget.
 
@@ -444,7 +444,7 @@ The image widget is able to display images from local assets or an image from a 
 
 _*Note*_: Applies from _7.0.2_
 
-=== Chart widget
+=== Chart widget (Subscription editions)
 
 Use the chart widget to create a graphical display of data to ease understanding.
 This widget is based on angular-chart-0.8.1, which is based on Chart.js.
@@ -482,7 +482,7 @@ Documents that are not previewable are prompted to be downloaded.
 
 +++<a id="rich-text-area">++++++</a>+++
 
-== Rich Text Area widget
+== Rich Text Area widget (Subscription editions)
 
 Use the rich text area widget to edit HTML formatted text in any UI Designer artifact (page or form for instance).
 

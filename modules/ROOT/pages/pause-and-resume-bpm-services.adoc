@@ -14,7 +14,7 @@ When you pause a tenant, this has the following consequences:
 * All processes are automatically paused.
 
 The following sections explain how to pause and resume service in a tenant using Bonita Portal.
-You can also use the http://documentation.bonitasoft.com/javadoc/api/{varVersion}/index.html[Engine API] or the xref:rest-api-overview.adoc[Web REST API].
+You can also use the http://documentation.bonitasoft.com/javadoc/api/${varVersion}/index.html[Engine API] or the xref:rest-api-overview.adoc[Web REST API].
 
 == Pause a tenant
 

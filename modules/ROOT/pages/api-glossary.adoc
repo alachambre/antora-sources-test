@@ -67,5 +67,5 @@ Represent the id of the task from which the subtask was created.
 
 For a complete description of the different elements, check out the following pages:
 
-* on the engine side, the http://documentation.bonitasoft.com/javadoc/api/{varVersion}/index.html[Javadoc] page
+* on the engine side, the http://documentation.bonitasoft.com/javadoc/api/${varVersion}/index.html[Javadoc] page
 * on the web site, the xref:_rest-api.adoc[REST API page] page
