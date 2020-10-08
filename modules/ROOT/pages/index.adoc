@@ -6,11 +6,9 @@ Click on the **links** below to find useful information quickly, or [browse the 
 
 ++++
 <div class="col-md-4">
-<div class="panel panel-default">
-<div class="panel-heading">Highlights</div>
-<div class="panel-body">
-<div class="menu-block-wrapper">
 ++++
+
+## Highlights
 
 * xref:release-notes.adoc[Release notes {varVersion}]
 * xref:release-notes.adoc#data-management[Business data management in the UI Designer]
@@ -20,7 +18,26 @@ Click on the **links** below to find useful information quickly, or [browse the 
 
 ++++
 </div>
+++++
+
+++++
+<div class="col-md-4">
+++++
+
+## Getting started
+
+* xref:getting-started-tutorial.adoc[Getting started tutorial]
+
+++++
 </div>
-</div>
+++++
+
+++++
+<div class="col-md-4">
+++++
+
+## Resources
+
+++++
 </div>
 ++++
