@@ -4,10 +4,6 @@ Learn how to use the Bonita Platform and all of its components.
 
 Click on the **links** below to find useful information quickly, or [browse the whole content tree](taxonomy.md), or use the **table of contents** to go straight to the information you want to read.
 
-++++
-<div class="col-md-4">
-++++
-
 ## Highlights
 
 * xref:release-notes.adoc[Release notes {varVersion}]
@@ -16,28 +12,9 @@ Click on the **links** below to find useful information quickly, or [browse the 
 * xref:release-notes.adoc#connector-archetype[Extensibility: new connector and actor filter archetype]
 * xref:release-notes.adoc#connector-archetype[UiPath RPA connector, now in the Cloud]
 
-++++
-</div>
-++++
-
-++++
-<div class="col-md-4">
-++++
-
 ## Getting started
 
-* xref:getting-started-tutorial.adoc[Getting started tutorial]
+* xref:what-is-bonita.adoc[What is Bonita]
 
-++++
-</div>
-++++
-
-++++
-<div class="col-md-4">
-++++
 
 ## Resources
-
-++++
-</div>
-++++
