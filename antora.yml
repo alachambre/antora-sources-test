@@ -1,9 +1,11 @@
 name: bonita
 title: Bonita
-version: 7.12
+version: 7.13
+display_version: 7.13 (beta)
+prerelease: true
 start_page: ROOT:index.adoc
 asciidoc:
   attributes:
-    varVersion: 7.12
+    varVersion: 7.13
 nav:
 - modules/ROOT/taxonomy.adoc
