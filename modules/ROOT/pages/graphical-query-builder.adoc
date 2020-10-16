@@ -2,8 +2,8 @@
 
 Build a database query graphically.
 
-::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
+
 
 == Connect to the database
 

@@ -135,11 +135,11 @@ For example:
 Following the second creation, when you are redirected to the editor, you can see in the URL that the id is in fact `myPageExample1`.
 However, it is a good practice to use a unique name for your page.
 
-:::info No migration is performed for existing artifacts (pages and fragments).
+info No migration is performed for existing artifacts (pages and fragments).
 If you want to benefit from readable Ids for your existing artifacts, you need to rename your artifacts from the homepage or the editor.
 The link with the process in Bonita Studio will be kept.
-:::
 
-:::warning If your project is under version control and you rename an artifact, you could loose the history of the artifact's resources depending on your version control system.
+
+warning If your project is under version control and you rename an artifact, you could loose the history of the artifact's resources depending on your version control system.
 If you use git, "git-log --follow" allows you to keep track of moved files.
-:::
+

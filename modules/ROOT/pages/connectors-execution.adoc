@@ -15,8 +15,8 @@ image::images/connector_execution.png[Connector execution]
 
 === Connector timeout
 
-::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
+
 
 A timeout can be configured to cancel the connector execution if it takes more than a certain amount of time.
 

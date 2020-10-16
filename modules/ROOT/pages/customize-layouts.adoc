@@ -1,7 +1,7 @@
 = Customize layouts
 
-::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
+
 
 == Overview
 

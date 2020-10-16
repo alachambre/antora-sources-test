@@ -23,8 +23,8 @@ This archetype allows you to bootstrap a Bonita connector project on your file s
 A Bonita connector project is a maven project.
 It can be built, tested and then imported into a Bonita project using Bonita Studio.
 
-To create your connector project, prompt a terminal and enter the following command:  ::: warning *Warning:* Make sure that you are not executing the command from an existing maven project.
-:::
+To create your connector project, prompt a terminal and enter the following command:  WARNING: *Warning:* Make sure that you are not executing the command from an existing maven project.
+
 
 ----
 mvn archetype:generate -DarchetypeGroupId=org.bonitasoft.archetypes -DarchetypeArtifactId=bonita-connector-archetype

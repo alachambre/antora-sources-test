@@ -35,8 +35,8 @@ This will create a custom widget that you can modify as needed.
 
 Image below shows wizard of switch widget behaviour
 
-:::info  This action is not available for containers.
-:::
+info  This action is not available for containers.
+
 
 image::images/widget_switch_mapping.png[widget_switch_mapping]
 
@@ -48,8 +48,8 @@ You can edit that or map more, then click on *Switch*.
 
 When the switch is completed, you still may have to set properties from the properties panel.
 
-:::info  Switch feature not available for Internet Explorer 11 and Microsoft Edge.
-:::
+info  Switch feature not available for Internet Explorer 11 and Microsoft Edge.
+
 
 == Containers
 
@@ -281,8 +281,8 @@ The URL is extracted from the context.
 When using the `Submit task` action, you can choose to automatically assign the task to the current user.
 It will assign and execute the task in a single action.
 
-:::warning *:fa-exclamation-triangle:* The Tasklist of the Bonita User App does not take that property into account and it is still required to `take` a task in order to execute it.
-:::
+warning *:fa-exclamation-triangle:* The Tasklist of the Bonita User App does not take that property into account and it is still required to `take` a task in order to execute it.
+
 
 Another possible use of the widget button is to add or remove a data from a given collection.
 

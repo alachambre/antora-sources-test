@@ -20,9 +20,9 @@ A common usage is to send the document by email or store it in an external infor
 
 === Using Word (docx)
 
-::: info *Note:* Tested versions are *Microsoft Word 2007/2010*.
+NOTE: *Note:* Tested versions are *Microsoft Word 2007/2010*.
 This connector may work with later versions.
-:::
+
 
 ==== Create a `field`
 

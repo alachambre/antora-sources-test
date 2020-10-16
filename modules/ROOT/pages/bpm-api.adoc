@@ -124,8 +124,8 @@ NOTE: if there is no data with the specified name in the activity, the update wi
 
 ==== Update activity variables and execute a task
 
-::: info Note: if the task definition includes a connector that is executed on finish and updates the value of a variable, the value set by the REST API call is overwritten.
-:::
+NOTE: Note: if the task definition includes a connector that is executed on finish and updates the value of a variable, the value set by the REST API call is overwritten.
+
 
 * *URL* + `/API/bpm/activity/:id`
 * *Method* + `PUT`
@@ -1930,9 +1930,9 @@ WARNING: only following types are supported for _javaTypeclassname_: java.lang.S
 
 Use the document resource to access a document in an active case.
 
-::: warning *:fa-exclamation-triangle: Caution:* This resource is deprecated and may be removed in a future release.
+WARNING: *:fa-exclamation-triangle: Caution:* This resource is deprecated and may be removed in a future release.
 Instead, use caseDocument or archivedCaseDocument.
-:::
+
 
 == CaseDocument
 
@@ -1942,9 +1942,9 @@ Instead, use caseDocument or archivedCaseDocument.
 Use the case document resource to access a document in an active case.
 For archived cases and previous document versions use archivedCaseDocument.
 
-::: warning
+WARNING:
 
-* `author` in the payload is deprecated: use `submittedBy` :::
+* `author` in the payload is deprecated: use `submittedBy` 
 
 [discrete]
 ==== Identifier
@@ -2886,10 +2886,10 @@ To instantiate a process with a contract, check the <<instantiate_process,proces
 
 ===== Create a case with variables
 
-::: danger :fa-exclamation-triangle: *Warning:* The attribute "variables" on the request payload is used to initialize the process variables (not BDM variables).
+ danger :fa-exclamation-triangle: *Warning:* The attribute "variables" on the request payload is used to initialize the process variables (not BDM variables).
 If you want to initialize BDM variables at process instantiation, add a contract on the process and map BDM variables to the contract data.
 See <<start-a-process-using-an-instantiation-contract,Start a process using an instantiation contract>> for usage.
-:::
+
 
 [source,json]
 ----
@@ -3327,7 +3327,7 @@ The `d` (deploy) used to link:rest-api-overview.md#extend-resource[extend respon
 
 * `userId`
 
-::: info Note: if the `userId` is not provided as a deploy parameter, the `userId` property of a comment is filled with the system user :
+NOTE: Note: if the `userId` is not provided as a deploy parameter, the `userId` property of a comment is filled with the system user :
 
 [source,json]
 ----
@@ -3337,7 +3337,7 @@ The `d` (deploy) used to link:rest-api-overview.md#extend-resource[extend respon
 }
 ----
 
-:::
+
 
 ==== Create a comment
 
@@ -3455,7 +3455,7 @@ The `d` (deploy) used to link:rest-api-overview.md#extend-resource[extend respon
 
 * `userId`
 
-::: info Note: if the `userId` is not provided as a deploy parameter, the `userId` property of a comment is filled with the system user :
+NOTE: Note: if the `userId` is not provided as a deploy parameter, the `userId` property of a comment is filled with the system user :
 
 [source,json]
 ----
@@ -3465,7 +3465,7 @@ The `d` (deploy) used to link:rest-api-overview.md#extend-resource[extend respon
 }
 ----
 
-:::
+
 
 ==== Search for archived comments
 
@@ -3660,11 +3660,11 @@ You can update the following fields of a process definition:
 
 You can delete a process based on its ID.
 
-::: warning *Warning:* *Beware!
+WARNING: *Warning:* *Beware!
 Data loss risk!* Deleting a process will automatically delete all its cases (on-going and archived alike).
 Thus, the operation may take a long time, and fail if the transaction timeout is not large enough.
 This feature should only be used on non-production environments.
-*Please proceed at your own risk.* :::
+*Please proceed at your own risk.* 
 
 * *URL* + `/API/bpm/process/:processId`
 * *Method* + `DELETE`
@@ -3675,11 +3675,11 @@ This feature should only be used on non-production environments.
 
 You can also delete several processes.
 
-::: warning *Warning:* *Beware!
+WARNING: *Warning:* *Beware!
 Data loss risk!* Deleting a process will automatically delete all its cases (on-going and archived alike).
 Thus, the operation may take a long time, and fail if the transaction timeout is not large enough.
 This feature should only be used on non-production environments.
-*Please proceed at your own risk.* :::
+*Please proceed at your own risk.* 
 
 * *URL* + `/API/bpm/process`
 * *Method* + `DELETE`

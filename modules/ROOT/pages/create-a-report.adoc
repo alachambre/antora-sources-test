@@ -2,8 +2,8 @@
 
 The final step when setting up reporting in Bonita is to create a report template using a Business Intelligence (BI) tool.
 
-::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
+
 
 == Prerequisites
 
@@ -158,9 +158,9 @@ Here is an example of a report configuration containing a "Period" date range an
 
 To change style of your components in the HTML rendered reports, add CSS classes to them and update global Look'n'feel as described in xref:managing-look-feel.adoc[Bonita portal look'n'feel page].
 
-::: info + *Note:* If a JRTX file has been packaged inside the imported zip file, it will not be used to style HTML generated reports.
+NOTE: + *Note:* If a JRTX file has been packaged inside the imported zip file, it will not be used to style HTML generated reports.
 + Using the global CSS look'n'feel of the Bonita Portal allows to have a consistent look'n'feel between HTML reports and Bonita Portal.
-:::
+
 
 To add a CSS class to a component proceed as follow:
 

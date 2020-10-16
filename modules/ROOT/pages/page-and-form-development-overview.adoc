@@ -27,8 +27,8 @@ This is required for a process that is instantiated programmatically (by a call 
 The user will indicate in the application or Portal that the manual task is complete.
 A process or a human task with a contract but no form expects the information needed to fulfill the contract to be provided programmatically.
 
-::: warning *Attention*: Bonita 7.8 does not support 6.x GWT forms and case overview pages, neither for design nor at runtime.
-To migrate your processes still using them, follow those xref:migrate-a-form-from-6-x.adoc[instructions] :::
+WARNING: *Attention*: Bonita 7.8 does not support 6.x GWT forms and case overview pages, neither for design nor at runtime.
+To migrate your processes still using them, follow those xref:migrate-a-form-from-6-x.adoc[instructions] 
 
 == Form types
 

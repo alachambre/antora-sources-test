@@ -1,7 +1,7 @@
 = Access control API
 
-::: info  *Note:* This API is only available in Enterprise, Efficiency and Performance editions.
-:::
+NOTE:  *Note:* This API is only available in Enterprise, Efficiency and Performance editions.
+
 
 == BDM
 
@@ -17,11 +17,11 @@ You can use this API to get the access control status (lastUpdatedBy, lastUpdate
 * GET - Read access control status.
 * DELETE - Remove access control
 
-::: info  *Note:* A servlet to import access control file exists.
+NOTE:  *Note:* A servlet to import access control file exists.
 You can use it with this url  `services/bdmAccessControl/install?bdmAccessControlUpload=accessControlFileToUpload.xml`.
 The file upload needs to be performed before (POST portal/bdmAccessControlUpload).
 Use the file name returned in the response of the upload request to perform the import request (bdmAccessControlUpload parameter).
-:::
+
 
 [discrete]
 ==== Get access Control status
@@ -46,8 +46,8 @@ Make this call to get the access control status.
 }
 ----
 +
-::: info  *Note:* If `"lastUpdatedBy": "-1"` it means that the access control were last installed or updated by tenant_technical_user.
-:::
+NOTE:  *Note:* If `"lastUpdatedBy": "-1"` it means that the access control were last installed or updated by tenant_technical_user.
+
 
 [discrete]
 ==== Delete an access control

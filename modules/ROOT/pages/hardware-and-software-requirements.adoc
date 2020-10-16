@@ -4,8 +4,8 @@ This page describes the suggested hardware and software requirements to install 
 
 == Hardware
 
-::: info *Note:* The hardware recommended for Bonita Platform is strongly dependent on your environment and processes (number of processes instances, number of current users, operations and complexity...).
-:::
+NOTE: *Note:* The hardware recommended for Bonita Platform is strongly dependent on your environment and processes (number of processes instances, number of current users, operations and complexity...).
+
 
 Hardware required for Bonita Platform (Bonita Engine and Bonita Portal) | Type         | Minimum     | Recommended                       | | :-------- | :------- | :---------------------- | | Processors   | 4 CPU cores | 4 CPU cores or more               | | Memory (RAM) | 4 GB        | 8 GB or more                      | | Disk space   | 10 GB       | 30 GB or more, depending on usage |
 
@@ -33,8 +33,8 @@ So from that Chrome version onwards, once Bonita Platform is installed, apply th
 
 ==== Subscription users
 
-::: info *Note:* In order to apply this procedure, you MUST use a Chrome browser version that doesn't suffer from the incompatibility, or you can use Firefox, Internet Explorer/Edge or Safari, for example.
-:::
+NOTE: *Note:* In order to apply this procedure, you MUST use a Chrome browser version that doesn't suffer from the incompatibility, or you can use Firefox, Internet Explorer/Edge or Safari, for example.
+
 
 . Log in to Bonita Portal as Administrator.
 . In the menu, click on 'Portal'.

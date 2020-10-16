@@ -302,10 +302,10 @@ By default, for a Date parameter can use the following formats:
 
 == BusinessDataReference
 
-::: warning Deprecated (since 7.0.0)
+WARNING: Deprecated (since 7.0.0)
 
 Use link:bpm-api#retrieve-the-case-context[case context API] to get business data references for a case and link:bpm-api#retrieve-the-usertask-context[task context API] to get business data references for a task.
-:::
+
 
 [discrete]
 ==== Description

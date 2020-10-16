@@ -2,8 +2,8 @@
 
 Learn how reporting can be made on application of the Bonita Plaform.
 
-::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
+
 
 == Terminology
 

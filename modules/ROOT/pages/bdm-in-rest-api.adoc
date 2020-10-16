@@ -15,12 +15,12 @@ Note that the relationships from car to wheel1, wheel2, wheel3, wheel4 are *link
 
 Below is an example of a REST API extension groovy script that accesses the Business Data model.
 
-::: info *Good practices* are:
+NOTE: *Good practices* are:
 
 * If lazy loaded objects are not necessary in the response, ONLY extract the information needed.
 This avoids costly loading of unnecessary objects.
 * If lazy loaded objects should always be returned in the response, consider changing the relation from link:define-and-deploy-the-bdm.md#lazy_eager_loading['lazy' to 'eager'] in the model.
-:::
+
 
 [source,groovy]
 ----
@@ -114,12 +114,12 @@ Below is an example of the resulting response (the json is formatted to improve 
 }
 ----
 
-::: info Note that Wheels are not returned, only necessary information is fetched.
-+ As a result, performance is efficient :::
+NOTE: Note that Wheels are not returned, only necessary information is fetched.
++ As a result, performance is efficient 
 
 == Troubleshooting bad practices
 
-::: warning *:fa-exclamation-triangle: Practices leading to poor performance*
+WARNING: *:fa-exclamation-triangle: Practices leading to poor performance*
 
 Since wheel1, wheel2, wheel3, wheel4 are lazy loaded, they are *not retrieved* directly when retrieving a Car.
 The retrieval of related Wheel objects is only performed *when accessing the fields* (via getWheel1(), ...), if necessary.
@@ -146,7 +146,7 @@ The returned result will contain, for each car, the fields persistenceId, buildY
 
 In comparison, the code following good practises only performs *a single Select database query*.
 
-:::
+
 
 == Other use cases
 

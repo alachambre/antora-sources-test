@@ -7,11 +7,11 @@ You should not have to "start" it in order to view it.
 A Bonita application is the answer.
 And the first step to build an application is to create pages.
 
-::: info Pages in Bonita are a lot like forms.
+NOTE: Pages in Bonita are a lot like forms.
 They are created with the UI Designer with the same sets of widgets.
 The main difference is that they are not bound with a process definition (like instantiation forms and user tasks forms).
 An application page can display business data values, charts and even let the user start a process or execute a task by displaying the appropriate form.
-:::
+
 
 For this example, we will build a basic page that displays all the claims submitted in a table.
 To create a new page:
@@ -51,9 +51,9 @@ Add and configure the table widget:
 image:images/getting-started-tutorial/design-application-page/add-and-configure-table-widget.gif[Add and configure table widget]
 // {.img-responsive .img-thumbnail}
 
-::: warning In order for preview to access the data, a user needs to be logged in to the Bonita Portal.
+WARNING: In order for preview to access the data, a user needs to be logged in to the Bonita Portal.
 You can click on the *Portal* button in the Bonita Studio tool bar to make sure a user is logged in.
-:::
+
 
 Now you have your first application page.
 It's time to move to the xref:create-application.adoc[next chapter] and create the xref:create-application.adoc[application] that will include the page.

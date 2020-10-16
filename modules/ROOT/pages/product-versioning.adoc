@@ -49,9 +49,9 @@ These model versions should not change between maintenance versions of a given m
 between a 7.12.5 and a 7.12.3).
 This means that no migration is needed in production or the Studio when changing the maintenance version.
 
-::: info *Note:* Changing the minor version does not imply that the model version of all artifacts will change.
+NOTE: *Note:* Changing the minor version does not imply that the model version of all artifacts will change.
 Meaning that in some cases, upgrading to a new minor will not require migration.
-:::
+
 
 == Version checks in the development suite
 
@@ -74,6 +74,6 @@ The UI Designer will check the model version of all artifacts when it is launche
 You will not be able to work with incompatible artifacts.
 You will be able if you desire to migrate the older artifacts.
 
-:::warning *Warning*: Artifact migration is not reversible.
+warning *Warning*: Artifact migration is not reversible.
 Once the Studio or UI Designer has migrated an artifact it is no longer compatible with the previous version of the development suite.
-:::
+

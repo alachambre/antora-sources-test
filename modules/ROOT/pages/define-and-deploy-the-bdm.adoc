@@ -12,10 +12,10 @@ Your business data is the information that is shared between your processes and 
 It is defined as a set of business object in a business data model (BDM).
 There is one BDM that is used by all processes and applications in a tenant.
 
-::: info *:fa-info-circle:*  A BDM is defined at tenant level.
+NOTE: *:fa-info-circle:*  A BDM is defined at tenant level.
 It means you can have different BDM per tenant on the same Bonita platform.
 See <<bdm_storage,BDM data storage>> for more information on how to configure a business data model per tenant.
-:::
+
 
 When you define a process, you specify the business objects that are relevant to the process.
 When a process is instantiated (a case is started), the specified business objects are instantiated as required, becoming variables within the process instance.
@@ -69,8 +69,8 @@ A business object definition consists of the following:
 
 * An object name.
 This must be a Java class name (starting with a capital letter), because a business object is implemented as a Java class.
-+ ::: warning *:fa-exclamation-triangle: Warning:* Business object names must be unique, even across packages.
-:::
++ WARNING: *:fa-exclamation-triangle: Warning:* Business object names must be unique, even across packages.
+
 * Attributes.
 These are the components of the object.
 There can be any number of attributes.
@@ -190,14 +190,14 @@ The order items have no meaning outside the order, so have a composition relatio
 An order item contains a product object and a simple attribute for quantity.
 The product object has an existence outside the order item (it is used in the product catalog), so has an aggregation relationship with the order item.
 
-::: warning In Bonita, a composition relationship is unique: A given object can only be used in one composition relationship.
+WARNING: In Bonita, a composition relationship is unique: A given object can only be used in one composition relationship.
 For exemple, you cannot use the same object _Wheel_ in composition for an object _Car_ and an object _Bike_.
 You will have to use an object _WheelCar_ and an object _WheelBike_.
-:::
 
-::: warning In Bonita, in an aggregation relationship, a child must exist when creating its parent.
+
+WARNING: In Bonita, in an aggregation relationship, a child must exist when creating its parent.
 When creating a parent, you must refer to an existing child to value an attribute with an aggregation relationship.
-:::
+
 
 In the Bonita Studio BDM wizard, you can specify the objects that are related by composition and aggregation, as well as the simple attributes.
 A child object can be mandatory or optional.
@@ -262,9 +262,9 @@ To create a package:
 . The new package is created with a temporary name.
 . Click the name of the new package to select it, and specify the name you want to use by typing over the temporary name.
 
-::: info A package must contain at least one business object.
+NOTE: A package must contain at least one business object.
 A new package comes automatically with a first business object, and deleting the last business object of a package deletes the package.
-:::
+
 
 To add an object into a package:
 
@@ -319,8 +319,8 @@ It creates the BDM database structure.
 To *reset the database*, use the *Clean Deploy* button.
 Reset database is required when changes impact the mandatory or multiple setting for an attribute, a unique constraint, or when a non primitive attribute type is modified.
 
-::: info *Note*: for subscription editions only.
-::: Two maven artifacts are generated from the Business Data Model : *bdm-dao* and *bdm-client*.
+NOTE: *Note*: for subscription editions only.
+ Two maven artifacts are generated from the Business Data Model : *bdm-dao* and *bdm-client*.
 + The version of those artifacts is fixed to 1.0.
 You have the possibility to edit the group id of those artifacts from the BDM edition wizard.
 + Those maven artifacts are meant to be used from REST API extensions, using the following dependencies:
@@ -355,9 +355,9 @@ There are two ways to export a business data model: in a ZIP file for deployment
 
 To deploy the BDM, you export it as a ZIP file from Bonita Studio and then import it into Bonita Portal.
 
-::: warning :fa-exclamation-triangle: *Warning:* Before deploying the business data model, you must xref:pause-and-resume-bpm-services.adoc[pause] the BPM services, so that the update can be performed without affecting ongoing processes.
+WARNING: :fa-exclamation-triangle: *Warning:* Before deploying the business data model, you must xref:pause-and-resume-bpm-services.adoc[pause] the BPM services, so that the update can be performed without affecting ongoing processes.
 *Important:* You are recommended xref:back-up-bonita-bpm-platform.adoc[Back up your platform] and database before deploying a new BDM in case of problems during the update.
-:::
+
 
 Follow these steps:
 
@@ -520,8 +520,8 @@ Choose the _*Script*_ expression type and enter the same code snippet than the o
 You can use business data in a Java program by using the DAO.
 DAO gives _*read*_ access to business objects.
 
-::: warning *:fa-exclamation-triangle: Warning*: In a connector, code is executed outside a transaction, so retrieving or updating business data by DAO is not supported.
-:::
+WARNING: *:fa-exclamation-triangle: Warning*: In a connector, code is executed outside a transaction, so retrieving or updating business data by DAO is not supported.
+
 
 You can however manipulate the business object outside the connector, and use business objects as connector input or output:
 
@@ -539,9 +539,9 @@ See the xref:bdm-in-rest-api.adoc[best practice] on this matter.
 [discrete]
 ==== Handle BDM database schema manually
 
-::: warning This section is for advanced usage.
+WARNING: This section is for advanced usage.
 You should fully understand the database changes made when you update the Business Data Model before considering using this alternative.
-:::
+
 
 You can use an alternative database `SchemaManager` implementation.
 A `SchemaManager` is responsible for updating the BDM Database schema, according to the changes you have made to your Business Data Model.

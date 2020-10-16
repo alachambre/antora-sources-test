@@ -70,9 +70,9 @@ It is assumed that the Studio had been started at least once successfully.
 . Restart the Studio
 . Fill in all the connection fields with the correct settings.
 
-:::warning *Note*: SAP JCo 3 connector supports a single destination for all connector instances in Bonita Engine.
+warning *Note*: SAP JCo 3 connector supports a single destination for all connector instances in Bonita Engine.
 You also need to restart the web server when changing its value.
-:::
+
 
 . Once all the fields are filled, test the connection by clicking on the _**test **_button.
 . In the function definition window, only the function name is required.

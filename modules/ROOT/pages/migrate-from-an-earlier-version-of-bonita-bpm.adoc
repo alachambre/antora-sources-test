@@ -13,7 +13,7 @@ You can migrate your platform using the `Bonita Migration Tool`. There are 2 ver
 
 For example, if you are migrating from 6.5.3 to 7.1.0, you must migrate from 6.5.3 to 7.0.0 using version 1.x of the _Bonita Migration Tool_, and then migrate from 7.0.0 to 7.1.0 using version 2.x.
 
-::: warning
+WARNING:
 :fa-exclamation-triangle: *Caution:*
 You should always migrate to the latest version of a major version. Usually, maintenance version might contain bug fixes made after the release of subsequent major or minor release.
 
@@ -21,7 +21,7 @@ For example, the 6.5.4 release contains fixes to certain bugs that were found in
 When you are ready to migrate from 6.5.4 to a 7.x.y version, make sure you migrate to at least 7.1.1 to be sure that these fixes are present in your new version after migration.
 To migrate from 6.5.4 to 7.1.1 or later there are two phases: first you upgrade to 7.0.0 then to the latest version.
 You are recommended not to start 7.0.0 after you migrate to it, but to proceed immediately with the second phase of the migration.
-:::
+
 
 *JRE requirements:*
 
@@ -31,14 +31,14 @@ You are recommended not to start 7.0.0 after you migrate to it, but to proceed i
 
 +++<a id="rdbms_requirements">++++++</a>+++
 
-::: warning
+WARNING:
 *RDBMS requirements:*
 The version targeted may not support the version of the database that is being migrated. You may then need to upgrade the version of your database prior to running the migration tool.
 
 * Please check the xref:hardware-and-software-requirements.adoc[database requirements].
 * If you need to upgrade your database:
  ** Please make sure to apply all the link:database-configuration.md#specific_database_configuration[RDBMS customisations required by Bonita] when setting up the new version.
-:::
+
 
 *Community/Subscription edition:*
 The tool migrates your platform (_bonita_home_ folder and the database). You cannot xref:upgrade-from-community-to-a-subscription-edition.adoc[change edition] while migrating.
@@ -46,11 +46,11 @@ The tool migrates your platform (_bonita_home_ folder and the database). You can
 * If you are running a Bonita Subscription Pack edition, you need a valid license for your target version.
 * If you are upgrading to a new maintenance version and not changing the minor version number (for example, you are migrating from x.y.0 to x.y.1), your current license remains valid after migration.
 
-::: info
+NOTE:
 Starting from version 7.3 there is no more _bonita home_ folder. This means that, if your installation does not have any custom change, then you do not need to configure the bundle any further for an installation migrated in 7.3 or above.
 
 On the other hand, if you have customized your configuration, you will have to use the link:BonitaBPM_platform_setup.md#update_platform_conf[platform setup tool] to send your customized configuration files to the database where configuration is stored, for versions 7.3 and above.
-:::
+
 
 image::images/images-6_0/migration_bigsteps.png[Migration steps]
 
@@ -98,7 +98,7 @@ modify your custom Look & Feel to be compatible with the new definition, and wit
 Then xref:managing-look-feel.adoc[import] your updated custom Look & Feel into Bonita Portal.
 * The migration script supports MySQL, Postgres, Oracle, and Microsoft SQL Server. There is no migration for h2 database.
 
-::: warning
+WARNING:
 *Important:* +
 The migration operation resets the Bonita configuration files to default version for new settings to be applied (from the _$BONITA_HOME_ folder in <7.3.0 version or inside database in >=7.3.0).
 Therefore, you must do a link:BonitaBPM_platform_setup.md#update_platform_conf[backup of your configuration files] before starting the migration. +
@@ -106,7 +106,7 @@ You will need to merge custom properties and configurations to the migrated envi
 
 Furthermore, from the database point of view, as any operations on a production system, a migration is not a zero risk operation. +
 Therefore, it is strongly recommended to do a xref:back-up-bonita-bpm-platform.adoc[backup of your database] before starting the migration.
-:::
+
 
 == Estimate time required
 
@@ -168,11 +168,11 @@ Specify the following information:
 | bpm
 |===
 +
-::: info
+NOTE:
  Note: If you are using MySQL, add `?allowMultiQueries=true` to the URL. For example,
  `db.url=jdbc:mysql://localhost:3306/bonita_migration?allowMultiQueries=true`. +
  Also, if you are migrating to Bonita 7.9+, you must upgrade your database server to MySQL 8.0, see <<mysql8,Migrating to Bonita 7.9+ using MySQL>> specific procedure below.
- :::
+ 
 
 . If you use a custom Look & Feel, xref:managing-look-feel.adoc[export] it, and then xref:managing-look-feel.adoc[restore the default Look & Feel].
 . If you use a Business data model that requires to be redeployed (see <<bdm_redeploy,above>>), you can pause the tenant so that as a tenant admin, you'll be able to redeploy the BDM on a paused tenant once migration is done.
@@ -302,9 +302,9 @@ It means that you might want to redo the case overview page as well as the forms
 a custom case overview page for your processes in version 6.x. Or (for Enterprise, Performance, and Efficiency editions only),
 you can live update it after migration.
 
-::: info
+NOTE:
 Note: 6.x application resources have been removed too in 7.8.0, so if you are migrating a process that leverage this feature, you need to modify it (for example to use process dependencies instead (Configure > Process dependencies in Bonita Studio)).
-:::
+
 
 +++<a id="update-case-overview-pages">++++++</a>+++
 
@@ -329,10 +329,10 @@ For instance:
 
 If you want to update several processes, simply run the command with all the processDefinitionId's one by one.
 
-::: info
+NOTE:
 Note: This tool will only change case overview pages. This means that if some of your processes still have process instantiation / task execution forms,
 you need to redesign them in the Studio using Bonita UI designer, as explained in the section above.
-:::
+
 
 Example of output issued when running the tool:
 

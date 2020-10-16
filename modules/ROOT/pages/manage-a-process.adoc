@@ -356,16 +356,16 @@ This allows to deploy a newer version of the process before deleting the old one
 apiClient.getProcessAPI().deleteProcessDefinition(processDefinitionId)
 ----
 
-::: info You can directly disable and delete a process by calling the wrapper API method:
+NOTE: You can directly disable and delete a process by calling the wrapper API method:
 
 [source,java]
 ----
 apiClient.getProcessAPI().disableAndDeleteProcessDefinition(processDefinitionId)
 ----
 
-:::
 
-::: warning Be aware that to be able to delete a process, you must ensure that all running process instances and all archived (finished) process instances are deleted first:
+
+WARNING: Be aware that to be able to delete a process, you must ensure that all running process instances and all archived (finished) process instances are deleted first:
 
 [source,java]
 ----

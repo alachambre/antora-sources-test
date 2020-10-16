@@ -2,8 +2,8 @@
 
 Discover how to create KPIs through the Bonita Studio feature and through a database connector to integrate them in your business processes.
 
-::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
+
 
 == Create a KPI using the Bonita Studio KPI feature
 

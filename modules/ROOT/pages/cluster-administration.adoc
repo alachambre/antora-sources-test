@@ -1,7 +1,7 @@
 = Cluster administration
 
-::: info *Note:* For Enterprise and Performance editions only.
-:::
+NOTE: *Note:* For Enterprise and Performance editions only.
+
 
 Discover how to administer, monitor and manage a Bonita cluster.
 

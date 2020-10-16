@@ -8,9 +8,9 @@ Manage a list of documents through a process means add / edit / remove documents
 
 == Exemple: Document validation process
 
-::: warning This tutorial assume that you are already familiar with Bonita.
+WARNING: This tutorial assume that you are already familiar with Bonita.
 If not you might want to read the xref:getting-started-tutorial.adoc[Getting started] first.
-:::
+
 
 This exemple shows how to easily create a document validation process using Bonita Studio.
 + A document validation process is a process where a User should be able to first submit a list fo documents.

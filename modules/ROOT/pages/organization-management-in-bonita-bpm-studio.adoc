@@ -37,9 +37,9 @@ A line will be added to the table of organizations, with a placeholder name such
  ** Click *_Add_* to add a group.
 You can specify the following:
   *** the group Name, which is used internally by the Bonita software.
-::: warning  *NB:* Bonita doesn't support the '/' character in the group name field.
+WARNING:  *NB:* Bonita doesn't support the '/' character in the group name field.
 A group name that contains a '/' may lead to unstable behaviour and may be forbidden in the future.
-:::
+
   *** the Display name, which is the name displayed in Bonita Portal
   *** the Path, which shows the hierarchical relationship between groups
   *** a Description of the group
@@ -89,8 +89,8 @@ To modify an organization, choose *Manage...* from the Organization menu and use
 Deploying an organization means uploading the organization data to Bonita Portal temporarily so that you can test your process.
 + The organization that you deploy overwrites one in Bonita Portal.
 
-::: warning Importing an organization overwrites the existing organization in Bonita Portal, which could have an impact on deployed processes.
-:::
+WARNING: Importing an organization overwrites the existing organization in Bonita Portal, which could have an impact on deployed processes.
+
 
 To deploy the organization data:
 

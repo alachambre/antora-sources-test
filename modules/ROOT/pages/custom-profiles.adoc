@@ -7,8 +7,8 @@ In a development environment, custom profiles definition and testing is done in 
 In a production environment, you can administrate custom profiles in Bonita Portal.
 To be able to do so, you must be using the *Administrator* profile or a custom profile with access to the profile management page.
 
-::: info *Note:* For Enterprise, Performance and Efficiency editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance and Efficiency editions only.
+
 
 What customization can I do?
 

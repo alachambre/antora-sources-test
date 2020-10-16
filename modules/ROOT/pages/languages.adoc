@@ -46,15 +46,15 @@ Since Bonita 7.11.0, when a user accesses a page of Bonita portal or an applicat
 . Web browser prefered language (first locale sent in the request header Accept-Language)
 . English if none of the previous ones are set and/or supported
 
-::: info When a language different from the one already set in the BOS_Locale cookie is passed in the URL (`locale` parameter), then the cookie value is reset with this new language.
+NOTE: When a language different from the one already set in the BOS_Locale cookie is passed in the URL (`locale` parameter), then the cookie value is reset with this new language.
 This can be used to force the default language if needed (by simply providing a link to Bonita portal/applications with the locale parameter).
-:::
+
 
 == Add a language to Bonita Portal
 
-::: info Instructions below assume that the language you want to add is already available in the community translation project.
+NOTE: Instructions below assume that the language you want to add is already available in the community translation project.
 If translation is not available see <<Translate_BonitaB_PM_Portal,Translate Bonita Portal>> for instruction about how to collaborate to a new or ongoing translation.
-:::
+
 
 Instructions below explain how to add a language to Bonita Portal.
 Steps below involve using content created by Bonitasoft community and therefore not officially supported.
@@ -88,7 +88,7 @@ For example, the files for the Brazilian Portuguese language end with `pt_BR.po`
 . Restart your application server (or Click on Server in the Bonita Studio menu bar, click on Restart Web Server).
 . Check that the new language is listed in Settings menu of the Bonita Portal.
 
-::: warning *Warning:* The `mobile_xxxx.po/.pot` files used for the language of the https://documentation.bonitasoft.com/bonita/7.4/mobile-portal[Bonita Mobile Portal] may contain some keys missing translation.
+WARNING: *Warning:* The `mobile_xxxx.po/.pot` files used for the language of the https://documentation.bonitasoft.com/bonita/7.4/mobile-portal[Bonita Mobile Portal] may contain some keys missing translation.
 For the Mobile Portal to be displayed correctly in the new language, these keys must not be empty.
 
 On the other hand, some of the keys in the `mobile_xxxx.po/.pot` files are duplicates from the ones in other non-mobile `.po/.pot` files.
@@ -98,7 +98,7 @@ For example, if you are adding the German language to the Mobile portal, the "Do
 
 * `mobile_de_DE.po`
 * `portal_de_DE.po`
-* `portal-sp_de_DE.po` :::
+* `portal-sp_de_DE.po` 
 
 +++<a id="Translate_BonitaB_PM_Portal">++++++</a>+++
 

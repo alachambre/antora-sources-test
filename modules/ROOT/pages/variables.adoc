@@ -63,12 +63,12 @@ You can use a variable to fill its value using interpolation syntax.
 
 You can use Pagination section to define the number of elements you want by page (by default 10 elements) and the page number (by default first page - index 0).
 
-:::warning Business data variables will be always an array that contains the result of query execution.
+warning Business data variables will be always an array that contains the result of query execution.
 In case of single result queries, such as find by persistence Id, you may access the values like this InvoiceVar[0], knowing that 0 is first and only element of your array.
-:::
 
-:::info Read link:ui-designer-overview.md#integration-with-bonita-platform[Integration with Bonita Platform] to know how Business Data are connected with Bonita Platform.
-:::
+
+info Read link:ui-designer-overview.md#integration-with-bonita-platform[Integration with Bonita Platform] to know how Business Data are connected with Bonita Platform.
+
 
 === External API
 
@@ -103,8 +103,8 @@ var result = $data.expenses * 2;
 ----
 
 An expression often relies on other variables as dependencies.
-::: warning *Warning:* Every time one of these variables changes, the whole JavaScript expression is re-evaluated and the previous value is overwritten.
-+ ::: For example, create a `login` expression variable: `return $data.firstname.toLowercase() + '-' + $data.lastname.toLowercase()`.
+WARNING: *Warning:* Every time one of these variables changes, the whole JavaScript expression is re-evaluated and the previous value is overwritten.
++  For example, create a `login` expression variable: `return $data.firstname.toLowercase() + '-' + $data.lastname.toLowercase()`.
 Its dependencies are the two variables `firstname` and `lastname`.
 + Create two input widgets "First name" and "Last name" and bind the values to two variables `firstname` and `lastname`.
 Add a text widget "Login" to display the result of the `login` expression.

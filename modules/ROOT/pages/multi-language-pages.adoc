@@ -2,8 +2,8 @@
 
 The UI Designer includes a mechanism to add translations for page, layout and form elements, to support multi-language applications.
 
-::: info *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
-:::
+NOTE: *Note:* For Enterprise, Performance, Efficiency, and Teamwork editions only.
+
 
 == Visualization
 
